@@ -1,0 +1,6 @@
+{
+    "host": "https://www.reddit.com/r/",
+    "limit" : "/limit",
+    "android":"androiddev",
+    "kotlin" : "kotlin"
+}
